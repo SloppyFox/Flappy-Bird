@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\",
+  "WorkspaceRootPath": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\_dump\\02_projects\\git\\flappybird\\assets\\_game\\scripts\\ui\\uiscorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ui\\uiscorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\_dump\\02_projects\\git\\flappybird\\assets\\_game\\scripts\\ui\\uiaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\_dump\\02_projects\\git\\flappy-bird\\flappybird\\assets\\_game\\scripts\\ui\\uiscorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ui\\uiscorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\ui\\uiaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\ui\\uiaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\score\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\score\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\score\\scorecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\game\\gamedifficult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\game\\gamedifficult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\gamedifficult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\bird\\birdaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\bird\\birdaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bird\\birdaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\bird\\birdmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\bird\\birdmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bird\\birdmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\FlappyBird\\assets\\_game\\scripts\\bird\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\assets\\_game\\scripts\\bird\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\bird\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UIScoreCounter.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\UI\\UIScoreCounter.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameManager.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\GameManager.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameManager.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameManager.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UIController.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIController.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\UI\\UIController.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIController.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIController.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\UI\\UIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T16:12:00.165Z",
               "EditorCaption": ""
@@ -90,22 +90,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UIAudio.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\UI\\UIAudio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:11:30.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T16:11:30.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BirdMover.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Bird\\BirdMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BirdAudio.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Bird\\BirdAudio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Bird.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\Bird.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\Bird.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Bird\\Bird.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\Bird.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Bird\\Bird.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Bird\\Bird.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ScoreCounter.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Score\\ScoreCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GameDifficult.cs",
-              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
+              "DocumentMoniker": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
-              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
+              "ToolTip": "C:\\_Dump\\02_Projects\\Git\\Flappy-Bird\\FlappyBird\\Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Game\\GameDifficult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

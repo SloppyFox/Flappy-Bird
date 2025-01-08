@@ -7,7 +7,7 @@ namespace SloppyFox.FlappyBird
 	public class UIController : MonoBehaviour
 	{
 		[SerializeField] private GameManager _gameManager;
-		[SerializeField] private GameObject _playButton;
+		[SerializeField] private GameObject _uiGameMenuButton;
 
 		public event Action OnPlayButtonClickedEvent;
 
@@ -25,13 +25,18 @@ namespace SloppyFox.FlappyBird
 
 		private void GameOver()
 		{
-			_playButton.SetActive(true);
+			_uiGameMenuButton.SetActive(true);
 		}
 
 		public void OnClickPlayButton()
 		{
-			_playButton.SetActive(false);
+			_uiGameMenuButton.SetActive(false);
 			OnPlayButtonClickedEvent?.Invoke();
+		}
+		
+		public void OnClickQuitApplicationButton()
+		{
+			Application.Quit();
 		}
 	}
 }
