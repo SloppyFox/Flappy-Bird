@@ -55,7 +55,7 @@ namespace SloppyFox.FlappyBird
 			CurrentGameDifficultRatio = 0f;
 		}
 
-		private void ScoreAmountValueChanged(float obj)
+		private void ScoreAmountValueChanged(int obj)
 		{
 			CurrentGameDifficultRatio += GameConfig.GAME_DIFFICULT_INCREASE_STEP;
 		}

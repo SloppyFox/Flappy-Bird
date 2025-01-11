@@ -18,7 +18,7 @@ namespace SloppyFox.FlappyBird
 			_scoreCounter.ScoreAmountValueChangedEvent -= ScoreAmountValueChanged;
 		}
 
-		private void ScoreAmountValueChanged(float scoreValue)
+		private void ScoreAmountValueChanged(int scoreValue)
 		{
 			_uiScoreCounterText.text = scoreValue.ToString();
 		}
