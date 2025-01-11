@@ -20,7 +20,7 @@ namespace SloppyFox.FlappyBird
 		private GameEntryPoint()
 		{
 			CreateUtils();
-			CreateUIRoot();
+			//CreateUIRoot();
 		}
 
 		private void CreateUtils()
@@ -59,16 +59,16 @@ namespace SloppyFox.FlappyBird
 		private IEnumerator LoadAndStartGameplayScene()
 		{
 			yield return LoadScene(Scenes.BOOT);
-			yield return LoadScene(Scenes.DISCLAIMER);
+			//yield return LoadScene(Scenes.DISCLAIMER);
 
-			_uiRootView.ShowLoadingScreen();
-			_uiRootView.ShowDisclaimer();
-			yield return new WaitForSecondsRealtime(5);
-			_uiRootView.HideDisclaimer();
+			//_uiRootView.ShowLoadingScreen();
+			//_uiRootView.ShowDisclaimer();
+			//yield return new WaitForSecondsRealtime(5);
+			//_uiRootView.HideDisclaimer();
 
 			yield return LoadScene(Scenes.GAMEPLAY);
 
-			_uiRootView.HideLoadingScreen();
+			//_uiRootView.HideLoadingScreen();
 		}
 		
 		private IEnumerator LoadScene(string sceneName)
